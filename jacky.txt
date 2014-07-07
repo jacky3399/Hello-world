@@ -6,3 +6,5 @@ feature bbbb
 cccc
 
 update a
+
+master b
