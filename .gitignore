@@ -1,0 +1,4 @@
+ignore_test.txt
+vendor/*
+!vendor/uframework
+!vendor/vendor.conf
