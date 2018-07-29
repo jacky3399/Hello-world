@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 xxx
 add 30
 add 29
@@ -28,3 +29,6 @@ add 8
 add 9
 add 10
 add 12
+=======
+master
+>>>>>>> ef2dc65effc626906f10766fe7f802879c1a8a7f
