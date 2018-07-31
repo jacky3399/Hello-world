@@ -1,5 +1,8 @@
 jacky is here
+<<<<<<< Updated upstream
 add 12
+=======
+>>>>>>> Stashed changes
 add 11
 add 10
 add 9
